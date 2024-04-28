@@ -1,1 +1,2 @@
 # Coin-Game
+‘Coin Game’ where the player controls a pot to catch falling gold coins and avoid red coins. The game involves touch input to move the pot horizontally across the screen. As gold coins and red coins descend from the top of the screen, the player must position the pot to catch the coins while avoiding the red coins. The game keeps track of the player's score based on the number of coins caught successfully.
